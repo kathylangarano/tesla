@@ -3,7 +3,8 @@
 
 ## Introduction
 
-This is an [Astro](https://astro.build/) project bootstrapped with npm create astro@latest
+This is an [Astro](https://astro.build/) project bootstrapped with npm create astro@latest. 
+
 The Tesla landing page with Astro is a modern and visually appealing web page designed to showcase Tesla's electric vehicles.
 
 In this README, you will find information about the project, how to run it, and other relevant details.
@@ -16,7 +17,6 @@ In this README, you will find information about the project, how to run it, and 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Credits](#credits)
-- [License](#license)
 
 
 ## Features
@@ -59,7 +59,7 @@ To install and set up this project, follow these steps:
    
 2. Change to the project directory:  
    ```bash
-    npm create astro@latest
+    cd tesla
     ```
 3. Install project dependencies:
     ```bash
@@ -73,7 +73,7 @@ To run the project locally, use the following commands:
    ```bash
    npm run dev
    ```
-2. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000)  to view the Tesla landing page with the astro theme.
+2. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000)  to view the Tesla landing page with the Astro theme.
 
 ## Contributing
 
@@ -85,7 +85,7 @@ If you would like to contribute to this project, please follow these guidelines:
 
 ## Credits
 
-This project is based on the [landing-tesla] by [Miguel Ángel Durán/midudev]([https://github.com/midudev]).
+This project is based on the landing-tesla by [Miguel Ángel Durán/midudev]([https://github.com/midudev]).
 
 
 
